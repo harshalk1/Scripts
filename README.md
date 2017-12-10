@@ -8,7 +8,8 @@
  	5. do unit testing <write all user cases..>
 
 ## 2. Structure of directory
-    ![root](/images/1.png)
+
+![root](/images/1.png)
 
 
 
