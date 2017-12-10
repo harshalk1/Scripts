@@ -17,7 +17,7 @@
 <br/>3.models
 <br/>![models](/images/models.png)
 <br/>4.ApiDocs
-<br/>![ApiDocs](/images/ApiDocs.png)
+<br/>![ApiDocs](/images/ApisDocs.png)
 <br/>5.JsDocs
 <br/>![JsDocs](/images/JsDocs.png)
 <br/>6.PostmanCollection
